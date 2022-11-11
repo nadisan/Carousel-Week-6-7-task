@@ -15,6 +15,6 @@ Zuri task
     
     When the previous icon on the first image is clicked, it should show the last image. 
 
-Link to hosted web 
+Website created  nadisan.github.io/Carousel-Week-6-7-task/ 
 
 Task done by Nadia Ahmed
